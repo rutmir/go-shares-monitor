@@ -1,0 +1,1 @@
+go-shares-monitor
