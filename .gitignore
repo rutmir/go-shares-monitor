@@ -1,4 +1,5 @@
 
 \.vscode/
+\.secrets/
 
 cmd/api/debug
